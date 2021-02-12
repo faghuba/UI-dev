@@ -13,6 +13,8 @@ html {
   font-size: 62.5%;
 }
 
+/* topography fontStyles adjustments  */
+
 body {
   font-family: Inter, Arial, Helvetica, sans-serif;
   color: var(--color-body);
